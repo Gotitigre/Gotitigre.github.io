@@ -2,6 +2,7 @@
     background-color: grey;
     font-family: Arial;
     border: 5px padding black;
+    width: 60%;
 }
 tr,td{
     border: 1px solid;
