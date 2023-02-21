@@ -1,4 +1,6 @@
-p{
-    .color: black;
-    .color: yellow;
+.color {
+    color: fuchsia;
+}
+#jaune{
+    color: yellow;
 }
