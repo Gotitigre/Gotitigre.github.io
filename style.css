@@ -1,6 +1,5 @@
-.color {
-    color: fuchsia;
-}
-#jaune{
-    color: yellow;
+table{
+    background-color: grey;
+    font-family: Arial;
+    border: 5px dotted black;
 }
