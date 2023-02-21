@@ -1,16 +1,9 @@
-body {
-    background-color:lightblue;
-}
-h1{
-    color:white;
-    text-align: center;
-}
-p{
-    font-family: Verdana;
-    font-size: 20px;
-}
 
 p1{
     background-color: yellow;
     color: blue;
+}
+div{
+    width: 100%;
+    text-align: center;
 }
