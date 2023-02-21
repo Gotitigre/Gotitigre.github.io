@@ -1,6 +1,9 @@
 #marque{
     background-color: grey;
     font-family: Arial;
-    border: 5px dotted black;
-    padding-bottom: 5px;
+    border: 5px padding black;
+}
+tr,td{
+    border: 1px solid;
+    padding:5px;
 }
