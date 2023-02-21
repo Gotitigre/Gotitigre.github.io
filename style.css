@@ -1,15 +1,6 @@
-
-p1{
-    background-color: yellow;
-    color: blue;
+p1,p2{
+    .'color'
 }
-div{
-    width: 100%;
-}
-h2,p{
-    text-align: center;
-}
-h1{
-    font-size: 100px;
-    font-family: 'Times New Roman';
+p2{
+    color: yellow;
 }
