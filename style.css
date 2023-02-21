@@ -9,3 +9,7 @@ div{
 h2,p{
     text-align: center;
 }
+h1{
+    width: 200%;
+    font-family: 'Times New Roman';
+}
